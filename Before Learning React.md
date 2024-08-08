@@ -5,11 +5,13 @@
 
 ## syntax of FUNCTION DECLARATION
 
+``` javascript
 function welcome(){  
 console.log('welcome users');  
 }
 
 welcome();
+```
 
 Note: we must invoke the function so that function could run.
 
