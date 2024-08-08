@@ -21,6 +21,7 @@ It is automatic. By Js engine. What it does is;
 Hoisting is the process of moving function declaration to the top of file.
 
 ## FUNCTION ASSIGNMENT
+![Screenshot 2024-08-08 151454](https://github.com/user-attachments/assets/60ea9cb8-56e2-4213-a503-a1b6da12ab49)
 
 assigning a function to a variable
 
