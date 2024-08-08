@@ -2,7 +2,6 @@
 
 1\. function declaration  
 2\. function invoke
-3\. fucntion heyy
 
 ## syntax of FUNCTION DECLARATION
 
