@@ -25,21 +25,21 @@ Hoisting is the process of moving function declaration to the top of file.
 assigning a function to a variable
 
 ## Naming Function Assignment
-
+``` javascript
 let walk= function welcome(){  
 	console.log('welcome gals');  
 }
 
 walk();
-
+```
 ## Anonymous Function Assignment
-
+``` javascript
 let walk= function(){  
 	console.log('welcome gals');  
 }
 
 walk();
-
+```
 ![][image1]
 
 | House  ![][image2] | children (Building Blocks of View) 1\. ![][image3] 2\.  ![][image4] | In the example of the Airtable home page, the title, paragraph, sign up button, etc. are all individual houses that make up the view.  |
